@@ -58,11 +58,11 @@ Files used:
 
 ```
 ecommerce-funnel-analytics/
-├── data/                        # Place downloaded CSVs here
+├── data/                       
 ├── outputs/
 │   ├── dashboard.png            # 6-panel analytics dashboard
 │   └── analysis_results.json   # Key metrics in JSON format
-├── analysis.py                  # Main analytics + dashboard script
+├── analysis.py                  # script
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
