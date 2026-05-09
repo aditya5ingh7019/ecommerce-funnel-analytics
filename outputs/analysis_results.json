@@ -1,0 +1,197 @@
+{
+  "analysis_date": "2026-05-09 17:31:15",
+  "total_orders": 99441,
+  "delivered_orders": 96478,
+  "conversion_rate": 97.02,
+  "canceled_orders": 625,
+  "canceled_rate": 0.63,
+  "avg_order_value_brl": 137.04,
+  "median_order_value_brl": 86.57,
+  "top_category": "health_beauty",
+  "top_category_revenue_brl": 1412951.09,
+  "top_state": "SP",
+  "top_state_orders": 40501,
+  "premium_customers": 3079,
+  "order_status_funnel": {
+    "created": 5,
+    "approved": 2,
+    "processing": 301,
+    "invoiced": 314,
+    "shipped": 1107,
+    "delivered": 96478,
+    "canceled": 625,
+    "unavailable": 609
+  },
+  "top_10_categories": [
+    {
+      "category": "health_beauty",
+      "revenue": 1412951.09,
+      "avg_review": 4.210360308061458,
+      "orders": 8613
+    },
+    {
+      "category": "watches_gifts",
+      "revenue": 1265328.87,
+      "avg_review": 4.093299251415008,
+      "orders": 5477
+    },
+    {
+      "category": "bed_bath_table",
+      "revenue": 1230987.76,
+      "avg_review": 3.9667318982387476,
+      "orders": 9198
+    },
+    {
+      "category": "sports_leisure",
+      "revenue": 1117500.98,
+      "avg_review": 4.2100907634810465,
+      "orders": 7492
+    },
+    {
+      "category": "computers_accessories",
+      "revenue": 1034600.34,
+      "avg_review": 4.062797481959159,
+      "orders": 6513
+    },
+    {
+      "category": "furniture_decor",
+      "revenue": 878085.02,
+      "avg_review": 4.048118843855966,
+      "orders": 6193
+    },
+    {
+      "category": "housewares",
+      "revenue": 757673.37,
+      "avg_review": 4.181161971830986,
+      "orders": 5680
+    },
+    {
+      "category": "cool_stuff",
+      "revenue": 691578.88,
+      "avg_review": 4.196712018140589,
+      "orders": 3528
+    },
+    {
+      "category": "auto",
+      "revenue": 669464.36,
+      "avg_review": 4.133210234766552,
+      "orders": 3791
+    },
+    {
+      "category": "garden_tools",
+      "revenue": 565606.34,
+      "avg_review": 4.172241784037559,
+      "orders": 3408
+    }
+  ],
+  "customer_segments": {
+    "Low (<100)": 45928,
+    "Mid (100-300)": 40648,
+    "High (300-600)": 6823,
+    "Premium (600+)": 3079
+  },
+  "monthly_revenue": [
+    {
+      "month": "2016-09",
+      "revenue_brl": 143.46
+    },
+    {
+      "month": "2016-10",
+      "revenue_brl": 46490.66
+    },
+    {
+      "month": "2016-12",
+      "revenue_brl": 19.62
+    },
+    {
+      "month": "2017-01",
+      "revenue_brl": 127482.37
+    },
+    {
+      "month": "2017-02",
+      "revenue_brl": 271239.32
+    },
+    {
+      "month": "2017-03",
+      "revenue_brl": 414330.95
+    },
+    {
+      "month": "2017-04",
+      "revenue_brl": 390812.4
+    },
+    {
+      "month": "2017-05",
+      "revenue_brl": 566851.4
+    },
+    {
+      "month": "2017-06",
+      "revenue_brl": 490050.37
+    },
+    {
+      "month": "2017-07",
+      "revenue_brl": 566299.08
+    },
+    {
+      "month": "2017-08",
+      "revenue_brl": 645832.36
+    },
+    {
+      "month": "2017-09",
+      "revenue_brl": 701077.49
+    },
+    {
+      "month": "2017-10",
+      "revenue_brl": 751117.01
+    },
+    {
+      "month": "2017-11",
+      "revenue_brl": 1153364.2
+    },
+    {
+      "month": "2017-12",
+      "revenue_brl": 843078.29
+    },
+    {
+      "month": "2018-01",
+      "revenue_brl": 1077887.46
+    },
+    {
+      "month": "2018-02",
+      "revenue_brl": 966168.41
+    },
+    {
+      "month": "2018-03",
+      "revenue_brl": 1120598.24
+    },
+    {
+      "month": "2018-04",
+      "revenue_brl": 1132878.93
+    },
+    {
+      "month": "2018-05",
+      "revenue_brl": 1128774.52
+    },
+    {
+      "month": "2018-06",
+      "revenue_brl": 1011978.29
+    },
+    {
+      "month": "2018-07",
+      "revenue_brl": 1027807.28
+    },
+    {
+      "month": "2018-08",
+      "revenue_brl": 985491.64
+    }
+  ],
+  "top_states": {
+    "SP": 40501,
+    "RJ": 12350,
+    "MG": 11354,
+    "RS": 5345,
+    "PR": 4923,
+    "SC": 3546,
+    "BA": 3256,
+    "DF": 2080
+  }
+}
